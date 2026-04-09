@@ -1,0 +1,21 @@
+Symbol,Action,Candle_Type,Strength_Score,Change_Pct,Close_Price,Quantity,Reason
+TECHM,BUY,Strong Bullish,54,2.48%,1439.4,17,Bullish pattern (Strong Bullish) with strong score
+HCLTECH,BUY,Strong Bullish,51,3.15%,1397.1,17,Bullish pattern (Strong Bullish) with strong score
+TCS,BUY,Strong Bullish,47,1.73%,2449.8,10,Bullish pattern (Strong Bullish) with strong score
+TRENT,BUY,Strong Bullish,34,0.43%,3541.6,7,Bullish pattern (Strong Bullish) with strong score
+HDFCBANK,BUY,Strong Bullish,31,0.15%,743.35,33,Bullish pattern (Strong Bullish) with strong score
+WIPRO,BUY,Bullish,24,1.40%,193.86,128,Bullish pattern (Bullish) with good momentum
+HINDALCO,BUY,Bullish,22,1.29%,916.25,27,Bullish pattern (Bullish) with good momentum
+NESTLEIND,BUY,Bullish,21,1.11%,1193.9,20,Bullish pattern (Bullish) with good momentum
+INFY,BUY,Bullish Marubozu,20,1.01%,1288.6,19,Bullish pattern (Bullish Marubozu) with good momentum
+MARUTI,BUY,Bullish,18,0.81%,12610,1,Bullish pattern (Bullish) with good momentum
+ASIANPAINT,SELL,Strong Bearish,-42,-3.24%,2153.7,0,Bearish pattern (Strong Bearish) with weak score
+EICHERMOT,SELL,Bearish,-14,-2.46%,6657.5,0,Bearish pattern (Bearish) with negative momentum
+HEROMOTOCO,SELL,Bearish,-10,-2.06%,5016.5,0,Bearish pattern (Bearish) with negative momentum
+POWERGRID,SELL,Hanging Man,-6,-1.64%,288,0,Bearish pattern (Hanging Man) with negative momentum
+HDFCLIFE,SELL,Hanging Man,-4,-1.45%,564.65,0,Bearish pattern (Hanging Man) with negative momentum
+RELIANCE,SELL,Hanging Man,-4,-1.44%,1349.5,0,Bearish pattern (Hanging Man) with negative momentum
+GRASIM,SELL,Hanging Man,-3,-1.38%,2557.1,0,Bearish pattern (Hanging Man) with negative momentum
+ULTRACEMCO,SELL,Hanging Man,-3,-1.35%,10569,0,Bearish pattern (Hanging Man) with negative momentum
+BAJAJ-AUTO,SELL,Hanging Man,-2,-1.28%,8782,0,Bearish pattern (Hanging Man) with negative momentum
+BRITANNIA,SELL,Bearish,-2,-1.23%,5406.5,0,Bearish pattern (Bearish) with negative momentum

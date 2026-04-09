@@ -1,0 +1,22 @@
+# Requirements for Gemini ADK Agents
+# Install with: pip install -r requirements.txt
+
+# Google AI/ML
+google-adk>=0.1.0
+google-generativeai>=0.5.0
+google-cloud-aiplatform>=1.40.0
+vertexai>=1.0.0
+
+# API Server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+httpx>=0.26.0
+
+# Google Cloud (for deployment)
+google-cloud-secret-manager>=2.18.0
+google-auth>=2.27.0

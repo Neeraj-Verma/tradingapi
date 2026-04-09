@@ -1,0 +1,65 @@
+# Cloud Build configuration for CI/CD
+# Automatically build and deploy to Cloud Run on push
+
+steps:
+  # Step 1: Build the Docker image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/gemini-adk-agents:$COMMIT_SHA'
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/gemini-adk-agents:latest'
+      - '.'
+    dir: 'gemini_adk_agents'
+
+  # Step 2: Push to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/$PROJECT_ID/gemini-adk-agents:$COMMIT_SHA'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'gcr.io/$PROJECT_ID/gemini-adk-agents:latest'
+
+  # Step 3: Deploy to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'gemini-adk-agents'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/gemini-adk-agents:$COMMIT_SHA'
+      - '--region'
+      - '${_REGION}'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--memory'
+      - '2Gi'
+      - '--cpu'
+      - '2'
+      - '--timeout'
+      - '300'
+      - '--concurrency'
+      - '80'
+      - '--set-env-vars'
+      - 'GCP_PROJECT_ID=$PROJECT_ID,GCP_LOCATION=${_REGION}'
+      - '--set-secrets'
+      - 'GOOGLE_API_KEY=gemini-api-key:latest'
+
+# Substitutions (can be overridden)
+substitutions:
+  _REGION: 'us-central1'
+
+# Build options
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+# Images to store
+images:
+  - 'gcr.io/$PROJECT_ID/gemini-adk-agents:$COMMIT_SHA'
+  - 'gcr.io/$PROJECT_ID/gemini-adk-agents:latest'

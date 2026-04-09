@@ -1,0 +1,17 @@
+[project]
+name = "kite"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "kiteconnect>=5.0.1",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.30.0",
+    "pandas>=2.0.0",
+    "openai>=1.0.0",
+    "aiohttp>=3.9.0",
+    "google-adk>=0.2.0",
+    "google-genai>=1.0.0",
+    "openpyxl>=3.1.5",
+]

@@ -1,0 +1,41 @@
+Symbol,Quantity,Price,Transaction,Variety,Product,Order_Type,Rank,Allocation,TargetValue,Rationale
+HDFCBANK,489,835.75,BUY,regular,CNC,LIMIT,Top5,400000,399513.00,"Q3 PAT +11.5% YoY【1†L428-L434】; strong loan growth, robust franchise"
+RELIANCE,289,1407.6,BUY,regular,CNC,LIMIT,Top5,400000,398820.00,Q3 revenue +10% YoY to ₹2.94L Cr; PAT +1.6%【3†L419-L427】; diversified growth
+BHARTIARTL,222,1845.5,BUY,regular,CNC,LIMIT,Top5,400000,399156.00,Q3 rev +19.6% YoY to ₹54k Cr【5†L519-L527】; core EBITDA +25% despite higher costs
+SBIN,381,1067.9,BUY,regular,CNC,LIMIT,Top5,400000,399554.70,"Q3 PAT +24.5% YoY to ₹21,028 Cr【7†L418-L424】; strong NII and lower NPAs"
+INFY,322,1264,BUY,regular,CNC,LIMIT,Top5,400000,399344.40,Q3 rev +9% YoY; PAT -2% due to one-offs; raised FY26 guidance【9†L445-L452】【9†L421-L429】
+HINDUNILVR,138,2163.5,BUY,regular,CNC,LIMIT,Next5,300000,299404.80,Q3 underlying PAT +1% YoY (ex-cluster demerger)【11†L443-L451】【11†L468-L471】; stable consumer franchise
+BAJFINANCE,352,873.3,BUY,regular,CNC,LIMIT,Next5,300000,299235.20,"FY26 outlook strong; Q3 net flat (₹2,229 Cr) but underlying profit +32%【15†L471-L479】【15†L488-L496】; AUM +22%"
+ASIANPAINT,137,2248.3,BUY,regular,CNC,LIMIT,Next5,300000,299399.80,"Q3 rev +3.9% YoY, PAT -4.6% YoY【13†L45-L53】 (one-offs). Volume +7.9%; defensives in slow market"
+ITC,991,304.55,BUY,regular,CNC,LIMIT,Next5,300000,299827.05,"Q3 PAT flat at ₹5,018 Cr; rev +6.6%【17†L375-L382】. Defensive FMCG/infra play with high dividend"
+IOC,2018,146.93,BUY,regular,CNC,LIMIT,Next5,300000,299975.70,"Q3 PAT ₹12,125.9 Cr, up sharply (vs ₹2,874 Cr)【35†L71-L75】; refining margins recovered, LPG subsidy benefit"
+NTPC,520,384.4,BUY,regular,CNC,LIMIT,Top10,200000,199940.00,"Q3 PAT +5.85% YoY to ₹4,987 Cr【20†L476-L484】; commissioning renewables, stable power demand"
+COALINDIA,428,456.05,BUY,regular,CNC,LIMIT,Top15,200000,199876.00,"Q3 PAT -15.8% YoY to ₹7,166 Cr【23†L508-L516】; lower volumes and rising costs, but high dividend yield"
+GAIL,1374,147.89,BUY,regular,CNC,LIMIT,Top15,200000,199985.70,"Q3 PAT -57.6% YoY to ₹1,729 Cr【25†L101-L110】; weak natural gas prices and margins. Watch cyclicality; small yield"
+BANKBARODA,719,284.95,BUY,regular,CNC,LIMIT,Top15,200000,199882.00,"Q3 PAT +4.5% YoY to ₹5,054 Cr【28†L331-L339】; stable NII and improving asset quality"
+FEDERALBNK,763,271.3,BUY,regular,CNC,LIMIT,Top15,200000,199982.30,"Q3 PAT +9% YoY to ₹1,041 Cr【30†L453-L461】; NII +9%, improving NIM"
+TATAPOWER,513,403,BUY,regular,CNC,LIMIT,Top15,200000,199839.15,Q3 consolidated PAT ~₹772 Cr; generation up 12% (EBITDA)【33†L454-L460】 as renewables execution remains strong
+ZYDUSLIFE,225,904.3,BUY,regular,CNC,LIMIT,Top15,200000,199771.25,"Q3 PAT +1.8% YoY to ₹1,042.1 Cr【38†L252-L261】; revenue +31% to ₹6,864.5 Cr, strong pharmaceutical growth"
+GLENMARK,92,2191.7,BUY,regular,CNC,LIMIT,Top15,200000,199999.40,"Q3 revenue ₹3,900 Cr (+15% YoY), PAT +15.9% to ₹403 Cr【40†L91-L99】; momentum in key Rx segments"
+CAPLIPOINT,121,1663.7,BUY,regular,CNC,LIMIT,Top15,200000,199825.10,"H1 FY26 net profit +20.6% to ₹307 Cr【42†L149-L158】; high-margin generics exports, negligible debt"
+HUDCO,1172,175.81,BUY,regular,CNC,LIMIT,Top15,200000,200049.80,Q3 PAT jumped ~78% YoY (₹117 Cr vs ₹66 Cr); strong order backlog in housing infrastructure
+NMDC,1284,78.93,BUY,regular,CNC,LIMIT,Top25,100000,99815.20,"Q3 PAT ₹1,747 Cr (-8% YoY)【45†L180-L188】; revenue +16%. Cyclical (iron ore) with near-term pressure"
+SAIL,687,152.94,BUY,regular,CNC,LIMIT,Top25,100000,99918.19,Q3FY26 PAT -25% YoY (₹300 Cr vs ₹399 Cr) as steel demand softened; long-term revival tied to capex
+JKTYRE,249,424.5,BUY,regular,CNC,LIMIT,Top25,100000,99849.00,CV/two-wheeler tire volumes under pressure; expect recovery with auto demand. Held for turnaround potential
+ASHOKLEY,585,179.24,BUY,regular,CNC,LIMIT,Top25,100000,99916.50,"Q3 PAT down ~53% YoY (₹203 Cr vs ₹431 Cr) due to one-offs【33†L440-L447】; demand weak, but order book strong"
+PNCINFRA,530,191.29,BUY,regular,CNC,LIMIT,Top25,100000,100848.90,"Wind-power developer; Q3 subdued, but healthy O&M backlog. Yield pick as a PSU project stock"
+GPPL,665,154.32,BUY,regular,CNC,LIMIT,Top25,100000,99850.45,"Gujarat PSU gas pipeline co. Steady business; pays decent dividends. Modest growth, safe play"
+AEGISLOG,169,616.7,BUY,regular,CNC,LIMIT,Top25,100000,99676.20,Q3 revenue flat; long-term operator of chemical terminals/CCFL. Niche logistics play with high ROE
+WELSPUNLIV,904,113.9,BUY,regular,CNC,LIMIT,Top25,100000,99964.32,Rooms & Textiles co. Q3 beat estimates but industry weak. High leverage; speculative turnaround bet
+LTFOODS,266,398.4,BUY,regular,CNC,LIMIT,Top25,100000,99962.80,"Market leader in basmati rice. Q3 saw margin pressure, but edible oil/RTR growth provides stability"
+BERGEPAINT,252,416.75,BUY,regular,CNC,LIMIT,Top25,100000,99678.60,Q3 paint demand muted; PAT down. Long-term leader in paint sector. Held as thematic play
+NCLIND,591,176.16,BUY,regular,CNC,LIMIT,Top25,100000,99879.00,Cement co. with tight supply. Volatile commodity sector; use cautiously for dividend
+GIPCL,770,132.8,BUY,regular,CNC,LIMIT,Top25,100000,99976.80,"Gas and power PSU; steady cash flows. Modest P/E, utility yield stock"
+NAVKARCORP,1183,85,BUY,regular,CNC,LIMIT,Top25,100000,99998.99,Port logistics co. Booming EXIM volumes. PAT volatile but long-term growth visible
+MOREPENLAB,2688,38.7,BUY,regular,CNC,LIMIT,Top25,100000,99993.60,"Generic pharma; stocks at 52-week low, improving margins. High risk/reward on turnaround execution"
+ALEMBICLTD,1274,80.43,BUY,regular,CNC,LIMIT,Top25,100000,99932.56,API and formulations. Growth slowed by base. Valuation high; watch US business recovery
+SUZLON,2437,41.45,BUY,regular,CNC,LIMIT,Top25,100000,99965.74,Wind turbine co. (near-bankrupt). Extremely high risk; held only for multi-bagger hope if turnaround
+SJVN,1427,69.92,BUY,regular,CNC,LIMIT,Top25,100000,99989.89,"Hydro power PSU. Q3 PAT steady ~₹500+ Cr; modest growth. High dividend yield, government backing"
+NHPC,1333,77.23,BUY,regular,CNC,LIMIT,Top25,100000,99948.34,Another hydro PSU. Stable cash flows; growth limited. Good dividend (~7%)
+ATULAUTO,249,423.8,BUY,regular,CNC,LIMIT,Top25,100000,99861.45,Three-wheeler/EV co. Q3 growth paused; strong balance sheet. Valuation high at 60x EPS
+AKZOINDIA,35,2927.2,BUY,regular,CNC,LIMIT,Top25,100000,99239.00,"Agent for AkzoNobel paints. Small volume; earnings volatile. High margin, but niche exposure"
